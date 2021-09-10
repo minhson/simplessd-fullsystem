@@ -1,3 +1,4 @@
 [submodule "src/dev/storage/simplessd"]
 	path = src/dev/storage/simplessd
-	url = https://github.com/minhson/simplessd.git
+    url = https://github.com/minhson/simplessd.git
+    branch = 2.0
